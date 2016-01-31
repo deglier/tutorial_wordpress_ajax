@@ -1,0 +1,35 @@
+/*
+Theme Name: Ajax + Wordpress
+*/
+* {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+.container {
+    width: 1024px;
+    margin: 0 auto;
+    border: 1px solid #efefef;
+    padding: 20px;
+}
+    .page-title {
+        text-align: center;
+        border-bottom: 1px solid #efefef;
+        padding-bottom: 10px;
+    }
+
+#content {
+
+}
+    .artigos {
+        border: 1px solid #efefef;
+        background: #e1e1e1;
+        padding: 15px;
+        margin-top: 15px;
+        width: 100%;
+    }
+
+    .artigos img {
+        display: block;
+        max-width: 100% !important;
+    }
